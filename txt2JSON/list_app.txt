@@ -1,0 +1,71 @@
+[Tool & Utilities]
+7-zip; https://drive.usercontent.google.com/download?id=1Yb8VNrCGJC0_l3msAcjtfyZAAkGiVWSM&export=download&authuser=0&confirm=t&uuid=c42e4bfa-ac67-4ab4-944d-d4487cc553c5&at=APZUnTX23IsJqj0vSRzCcuZMRXXR%3A1716700186255 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/7zip.png
+Winrar; https://drive.usercontent.google.com/download?id=1UobEV2EBMaHEdik_bQsu2IZPYXmcdZKF&export=download&authuser=0&confirm=t&uuid=529178a1-9020-4ea2-9a72-914f7862cd18&at=APZUnTXVegpiW1Nb7ngmSvf6sozy%3A1716700257404 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/winrar.png
+Geforce Experience; https://us.download.nvidia.com/GFE/GFEClient/3.27.0.112/GeForce_Experience_v3.27.0.112.exe; ; https://raw.githubusercontent.com/paimon3107/appImages/main/GeforceExperience.png
+NVCleanstall; https://drive.usercontent.google.com/download?id=16Tsvh2a_ZRIOYsnOvf94Z3ouZ2vcv3MM&export=download&authuser=0&confirm=t&uuid=5d54af0f-5227-4b7c-b57f-8ae8febb2c89&at=APZUnTXyeQREstMV6kjSgVWOy5hX%3A1716700288948 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/nvcleanstall.png
+DDU; https://www.guru3d.com/getdownload/2c1b2414f56a6594ffef91236a87c0e976d52e0519bd313846bab016c2f20c7c4d6ce7dfe1991cc241d59b5c8cb07e5018b083a5902ac6c67fbe3b852ca022b0f73541638028a2d270eb576309b5208d7642bced763e8806fd9c5a9bca00d71e03e3f895d9924372aebbd01f8d3b8f4f22025884306c24b2230caaa33278d26e6030e42d33f8ae57a577520f01ba2e5ff243d0a889a561ab49c3ea2dd6c91d6ccaf1dfc1e0b09be33208add24e0c624c25ab ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/ddu.png
+VMWare; https://drive.usercontent.google.com/download?id=1ureT0YiWkND8kPeCUnDzMTGwARyrblnf&export=download&authuser=0&confirm=t&uuid=7633c79d-fca4-4a02-8593-19cba922718b&at=APZUnTU9A2Z1jasXb-ABYJC88aqq%3A1716700327846 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Vmware_workstation.png
+VirtualBox; https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/virtualbox.png
+MSI Afterburner; https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1716811614~acl=/*~hmac=04a8a5cf9b925093af2ea0f5c4ecc9d74a4cff477b251a28c8e2fe2badfc56a8 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/MSIAfterburner.png
+Process Lasso; https://dl.bitsum.com/files/processlassosetup64.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/process-lasso.png
+Revo Uninstaller; https://download.revouninstaller.com/download/revosetup.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/revo.png
+Team Viewer; https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/teamviewer.png
+Ultra View; https://www.ultraviewer.net/vi/UltraViewer_setup_6.6_vi.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/UltraViewer.png
+Anydesk; https://anydesk.com/en/downloads/thank-you?dv=win_exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/anydesk.png
+CPU-Z; https://download.cpuid.com/cpu-z/cpu-z_2.09-en.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/CPU-Z.png
+HWinfo; https://www.hwinfo.com/files/hwi64_802.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/HWinfo.png
+HWMonitor; https://download.cpuid.com/hwmonitor/hwmonitor_1.53.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/hwmonitor.png
+Crystal Disk Info; https://v51.x8top.net/tmp082020/cf/soft/2023/1/thuy/4/crystaldiskinfo_81714.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/CrystalDiskInfo.png
+K-Lite Codec Full; https://files2.codecguide.com/K-Lite_Codec_Pack_1830_Full.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/klite.png
+Spotify; https://download.scdn.co/SpotifySetup.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/spotify.png
+Google Drive; https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Google%20Drive.png
+One Drive; https://go.microsoft.com/fwlink/p/?LinkID=2182910&clcid=0x42a&culture=vi-vn&country=vn ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/One%20Drive.png
+Mega; https://mega.nz/MEGAsyncSetup64.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/mega.png
+Visual C++ AIO; https://drive.usercontent.google.com/download?id=1g803BdTQtwx5OWp2udZQE_r_o-hM7K8N&export=download&authuser=0&confirm=t&uuid=ac52678a-e404-4260-a6b9-62cbb0ca8c9f&at=APZUnTXc8alhiHS6-SwEcdgnUyfX%3A1716700358628 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Visual%20C%2B%2B.png
+.Net Desktop Runtime AIO; https://drive.usercontent.google.com/download?id=1WeZhkPdo0jErijIzxeHWf-GaqH0EZSuU&export=download&authuser=0&confirm=t&uuid=9d479676-a4b4-4193-ac04-de7b502e79a4&at=APZUnTWsDq3vlt5ylt4m8KFLOAnq%3A1716700389030 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/netfw.png
+DirectX; https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/directx.png
+Internet Download Manager (IDM); https://mirror2.internetdownloadmanager.com/idman642build10.exe?v=lt&filename=idman642build10.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Internet%20Download%20Manager.png
+OBS; https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.1.2-Full-Installer-x64.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/obs.png
+TreeSize Free; https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/TreeSize%20Free.png
+StartAllBack; https://www.startallback.com/download.php ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/StartAllBack.png
+Translucent Taskbar; https://github.com/TranslucentTB/TranslucentTB/releases/download/2024.1/bundle.msixbundle ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Translucent%20Taskbar.png
+Rounded Taskbar; https://github.com/RoundedTB/RoundedTB/releases/download/R3.1/RoundedTB_R3.1.zip ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/RoundedTaskbar.png
+RightClickWindows11; https://nilesoft.org/download/shell/1.9.15/setup.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/RightClickWindows11.png
+Rufus; https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/rufus.png
+Ventoy; https://v90.x8top.net/tmp082020/cf/soft/2022/11/ba/3/ventoy_1082.zip ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Ventoy.png
+Cloudflare WARP (1.1.1.1); https://1111-releases.cloudflareclient.com/windows/Cloudflare_WARP_Release-x64.msi ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Cloudflare%20WARP.png
+[Game Launcher]
+Steam; https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/steam.png
+EA; https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/EA.png
+Epic Launcher; https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/epic.png
+Battle.net; https://downloader.battle.net/download/getInstallerForGame?os=win&gameProgram=BATTLENET_APP&version=Live&id=b544bcf7-d583-49d3-9ea4-f0446b45f0f5 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Battle.net.png
+Riot Client; https://drive.usercontent.google.com/download?id=1Hp3i_j2AsFjG03NNXocXz1gK5sCj4uSg&export=download&authuser=0&confirm=t&uuid=34181f94-b262-4be1-8411-19e030fa3aa5&at=APZUnTV5B71Io8vNao6gA2YN1ZEq%3A1716700437632 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Riot%20Client.png
+StarWard; https://github.com/Scighost/Starward/releases/download/0.11.5/Starward_Portable_0.11.5_x64.7z ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/StarWard.png
+Geforce Now; https://download.nvidia.com/gfnpc/GeForceNOW-release.exe?_gl=1*17yejtk*_gcl_au*OTE1Mzc0MTAxLjE3MTY2NDkzNjQ. ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Geforce%20Now.png
+[Browser & Community]
+Chrome; https://drive.usercontent.google.com/download?id=1FTTN_lA4vPa2BNGYtrLmqW2Y67G2iNNj&export=download&authuser=0&confirm=t&uuid=dcacef1a-8788-4040-ace0-e212d6ee973d&at=APZUnTX0bmMmW-PUK75qUxDsAq8z%3A1716700470524 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/chrome.png
+Edge; https://drive.usercontent.google.com/download?id=1300_wG1rdUqx2eC5jvrJ0FFJfI6yltD3&export=download&authuser=0&confirm=t&uuid=d6c0cf28-eee0-4e1e-bee8-7494420a16b4&at=APZUnTWsZKB0k1DaQ3TMOk903W7v%3A1716700494313 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/edge.png
+Brave; https://drive.usercontent.google.com/download?id=1SgOh509cnjOmTP-bdh8F-c6DvOnRC5vD&export=download&authuser=0&confirm=t&uuid=1bbc959a-3a8c-4d54-b3a2-853b0d0f519f&at=APZUnTU5KELEJTudJMsz9Dyz-xD4%3A1716700520501 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/brave.png
+Opera GX; https://net.geo.opera.com/opera_gx/stable/windows?utm_tryagain=yes&utm_source=google&utm_medium=ose&utm_campaign=(none)&http_referrer=https%3A%2F%2Fwww.google.com%2F&utm_site=opera_com&&utm_lastpage=opera.com/gx ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/opera.png
+Tor; https://www.torproject.org/dist/torbrowser/13.0.15/tor-browser-windows-x86_64-portable-13.0.15.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/tor.png
+Discord; https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/discord.png
+Zalo; https://zalo.me/download/zalo-pc?utm=90000 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Zalo.png
+Telegram; https://telegram.org/dl/desktop/win64 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/telegram.png
+Zoom; https://zoom.us/client/6.0.11.39959/ZoomInstallerFull.exe?archType=x64 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/zoom.png
+Teams; https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.16472/Teams_windows_x64.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/teams.png
+[Dev Tools]
+Putty; https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.81-installer.msi ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/putty.png
+IP Scanner; https://download.radmin.com/download/files/Radmin_3.5.2.1_ML.zip ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/IP%20Scanner.png
+Nmap; https://nmap.org/dist/nmap-7.95-setup.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/nmap.png
+Wireshark; https://2.na.dl.wireshark.org/win64/Wireshark-4.2.5-x64.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/wireshark.png
+VSCode; https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/vscode.png
+VS Studio; https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/visualstudio.png
+Anaconda; https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Anaconda.png ; ;
+GitHub; https://central.github.com/deployments/desktop/desktop/latest/win32 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/github.png
+WinSCP; https://winscp.net/download/WinSCP-6.3.3-Setup.exe/download ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/winscp.png
+Sublime Text; https://www.sublimetext.com/download_thanks?target=win-x64 ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/sublimetext.png
+NodeJS; https://nodejs.org/dist/v20.13.1/node-v20.13.1-x64.msi ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/nodejs.png
+Docker Desktop; https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module&_gl=1*8wqtao*_ga*MTYwNDI1MDY0Ni4xNzE2NjU1MDI1*_ga_XJWPQMJYHQ*MTcxNjY1NTAyNS4xLjEuMTcxNjY1NTAyNi41OS4wLjA. ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Docker%20Desktop.png
+Git; https://github.com/git-for-windows/git/releases/download/v2.45.1.windows.1/Git-2.45.1-64-bit.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/Git.png
+Python3; https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/python.png
+Xemu; https://github.com/xemu-project/xemu/releases/latest/download/xemu-win-release.zip ; ; https://raw.githubusercontent.com/paimon3107/appImages/main/xemu.png
